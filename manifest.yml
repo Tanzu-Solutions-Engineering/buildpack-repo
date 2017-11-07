@@ -1,0 +1,4 @@
+applications:
+- name: external-conf-repo
+  buildpack: staticfile_buildpack
+  path: target/dist
