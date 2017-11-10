@@ -7,10 +7,7 @@
 	<includeBaseDirectory>false</includeBaseDirectory>
 	<fileSets>
 		<fileSet>
-			<directory>src/repo</directory>
-			<excludes>
-				<exclude>index.yml</exclude>
-			</excludes>
+			<directory>src/configured-item</directory>
 			<outputDirectory>/</outputDirectory>
 		</fileSet>
 	</fileSets>
