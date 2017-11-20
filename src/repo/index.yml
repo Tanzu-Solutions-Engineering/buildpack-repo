@@ -1,2 +1,2 @@
 ---
-${project.version}: https://${route}/configured-item.tar.gz
+${project.version}: ${repoURL}/configured-item.tar.gz

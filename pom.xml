@@ -7,7 +7,7 @@
 	<name>Buildpack Repo Example</name>
 	<description>Example of a Buildpack Repository that can be deployed to Cloud Foundry as a static file app</description>
 	<properties>
-		<route>buildpack-repo.cfapps.io</route>
+		<repoURL>http://buildpack-repo.cfapps.io</repoURL>
 	</properties>
 	<build>
 		<plugins>
